@@ -1,6 +1,6 @@
 package perfSONAR_PS::Client::Echo;
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 use strict;
 use Log::Log4perl qw(get_logger :nowarn);
